@@ -1,4 +1,4 @@
-public Class AccountCreation
+public Class sample
 {
 
 Public List<Account> CreateAccount(String s, String p){
