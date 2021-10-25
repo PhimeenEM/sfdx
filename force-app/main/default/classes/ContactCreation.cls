@@ -10,7 +10,7 @@ List<Account> a = new List<Account>();
 for(Account acc:a)
 
 {
-System.debug("Added in github");
+System.debug('Added in github');
 
 acc.Name=s;
 
