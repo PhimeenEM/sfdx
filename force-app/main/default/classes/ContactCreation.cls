@@ -10,9 +10,8 @@ List<Account> a = new List<Account>();
 for(Account acc:a)
 
 {
-System.debug("Added today");
-Systen.debug("2nd debug");
-System.debug("Added directly in github");
+System.debug("Added in github");
+
 acc.Name=s;
 
 acc.phone=p;
