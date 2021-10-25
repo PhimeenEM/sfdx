@@ -11,6 +11,7 @@ for(Account acc:a)
 
 {
 System.debug("Added today");
+Systen.debug("2nd debug");
 acc.Name=s;
 
 acc.phone=p;
