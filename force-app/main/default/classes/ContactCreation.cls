@@ -1,7 +1,7 @@
 public Class ContactCreation
 //test retrieve to org
 {
-
+//testing groovy script
 Public List<Account> CreateAccount(String s, String p){
 
 List<Account> a = new List<Account>();
